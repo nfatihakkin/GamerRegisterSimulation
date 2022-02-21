@@ -21,7 +21,7 @@ namespace GamerRegisterSimulation
             {
                 return "Gamer Created !";
             }
-            return "          Register Unsuccessful!" + "\n" +
+            return "          Register Unsuccessful!" + "\n" + "\n" +
                 "(-)Rules:Passwords must be equlas !" + "\n" +
                 "(-)Username have to contain 'C'" + "\n" +
                 "(-)At least your age have to be 18";
